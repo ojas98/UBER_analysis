@@ -67,7 +67,9 @@ The goal of this analysis is to:
 
 ## 🛠 Tools Used
 - **Power BI Desktop**
-- **DAX (Data Analysis Expressions)**## 📥 How to Use
+- **DAX (Data Analysis Expressions)**
+  
+## 📥 How to Use
 1. Clone or download this repository.
 2. Open the `.pbix` file in Power BI Desktop.
 3. Connect to your Uber trip dataset (replace sample data if needed).
